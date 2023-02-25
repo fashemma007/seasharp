@@ -1,0 +1,15 @@
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/bin/Debug/net6.0/HelloWorld
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/home/imitor/Documents/git_repos/Practices/sea_sharp/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
